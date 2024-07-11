@@ -345,9 +345,9 @@ export const PROJECTS = [
   {
     title: "Metaverse Reality",
     description:
-      'Dastkari is an e-commerce platform that empowers village women by providing an online marketplace to sell their handcrafted products. It offers tailored views for sellers, admins, and customers, bridging the gap between artisans and a wider customer base while preserving traditional craftsmanship through storytelling and educational content.',
+      'In this website, we have created Metaverse Madness, offering immersive virtual environments, interactive adventures, and vibrant social hubs. Engage in puzzles, quests, and events while exploring futuristic cities and magical forests. Customize your avatar with unique appearances, gear, and skills. Enjoy regular updates to keep your experience fresh and excitin',
     image: "/projects/1.jpg",
-    link: "https://github.com/rameenaamir137/Dastkari.git",
+    link: "https://metaverse-madness-site.vercel.app",
   },
   {
     title: "Olympiad-2024",
